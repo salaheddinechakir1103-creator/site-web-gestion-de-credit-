@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266379914735",
+    "project_id": "blocnote-7035d",
+    "storage_bucket": "blocnote-7035d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266379914735:android:99a70178ade59eaab55a1a",
+        "android_client_info": {
+          "package_name": "com.example.blocnote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKR8bXtPa82FWrsuREI7MFyi3fGXvcz8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
